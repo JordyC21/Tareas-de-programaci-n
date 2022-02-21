@@ -1,0 +1,15 @@
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\bin\Debug\net6.0\Ejercicio de cola.exe
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\bin\Debug\net6.0\Ejercicio de cola.deps.json
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\bin\Debug\net6.0\Ejercicio de cola.runtimeconfig.json
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\bin\Debug\net6.0\Ejercicio de cola.dll
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\bin\Debug\net6.0\ref\Ejercicio de cola.dll
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\bin\Debug\net6.0\Ejercicio de cola.pdb
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.AssemblyInfoInputs.cache
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.AssemblyInfo.cs
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.csproj.CoreCompileInputs.cache
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.dll
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\ref\Ejercicio de cola.dll
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.pdb
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.genruntimeconfig.cache
+C:\Users\matri\Documents\UNAB\Programación\TAREA\Ejercicio de cola\Ejercicio de cola\Ejercicio de cola\obj\Debug\net6.0\Ejercicio de cola.csproj.AssemblyReference.cache
